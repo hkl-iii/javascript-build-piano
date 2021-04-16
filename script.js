@@ -1,3 +1,6 @@
+const whiteKeys = ['z', 'x', 'c', 'v', 'b', 'n', 'm'];
+const blackKeys = ['s', 'd', 'g', 'h', 'j'];
+
 const keys = document.querySelectorAll('.key');
 
 keys.forEach(key => {
